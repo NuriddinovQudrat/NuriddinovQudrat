@@ -20,5 +20,7 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=NuriddinovQudrat&margin-w=5&theme=radical" alt="info" />
+<!--
+  <img src="https://github-profile-trophy.vercel.app/?username=NuriddinovQudrat&margin-w=5&theme=radical" alt="info" />
+-->
 
