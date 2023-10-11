@@ -7,6 +7,8 @@
 
 **- 👋 Hi, I’m Nuriddinov Qudratjon**
 
+**- 🖥 I’m Front End Developer**
+
 **- 📫 How to reach me ...**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/nuriddinovqudratjon)](https://www.linkedin.com/in/nuriddinovqudratjon/)
