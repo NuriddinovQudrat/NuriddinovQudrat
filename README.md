@@ -14,7 +14,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/nuriddinovqudratjon)
 
 <p> 
-<img src="https://komarev.com/ghpvc/?username=NuriddinovQudrat&color=brightgreen" alt="NuriddinovQudrat"/>
 <a href="https://wakatime.com/@4e5f859d-4a72-40d4-b9f2-7466701f3c27"><img src="https://wakatime.com/badge/user/4e5f859d-4a72-40d4-b9f2-7466701f3c27.svg" alt="Total time coded since Sep 18 2021" /></a>
 </p>
 
