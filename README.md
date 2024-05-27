@@ -7,7 +7,7 @@
 
 **- 👋 Hi, I’m Nuriddinov Qudratjon**
 
-**- 🖥 I’m Front End Developer**
+**- 🖥 I’m Software Developer**
 
 **- 📫 How to reach me ...**
 
