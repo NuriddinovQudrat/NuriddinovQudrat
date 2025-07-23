@@ -5,9 +5,11 @@
 
 ![Welcome!](86T4GWHN.gif)
 
-**- 👋 Hi, I’m Nuriddinov Qudratjon**
+**- 👋 Hi, I’m Nuriddinov Qudratjon
+**
 
-**- 🖥 I’m Software Developer**
+**- 🖥 I’m Fullstack Engineer
+**
 
 **- 📫 How to reach me ...**
 
